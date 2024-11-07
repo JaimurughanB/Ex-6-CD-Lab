@@ -54,5 +54,5 @@ int main()
 ## PROGRAM OUTPUT
 ![image](https://github.com/user-attachments/assets/68df0fe4-af22-4fe4-8ded-49f8cc4efb29)
 
-# Result
+## Result
 The back end of the compiler is implemented successfully, and the output is verified.
